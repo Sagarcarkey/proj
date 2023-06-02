@@ -1,0 +1,26 @@
+body{
+    background-color:red ;
+    margin: 20px;
+    width: 1366px;
+}
+#header{
+    height: 50px;
+    width: 100%;
+    background-color: blue;
+}
+#header p{
+    padding-top: 10px;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+#image{
+    background-color: aliceblue;
+    height: 768px;
+    width: 100%;
+}
+#image img{
+    width: 1024px;
+    height: auto;
+    padding-left: 175px;
+}
